@@ -10,4 +10,4 @@ Additionally, the desired skills practiced inside the code are illustrated throu
 * Monitoring player score and health.
 * Switching between files programmatically rather through user input.
 
-\* Finally I would like to mention that this by no means is the perfect code for the project but my initial observation for the direction of the code.
+Finally I would like to mention that this by no means is the perfect code for the project but my initial observation for the direction of the code.
